@@ -7,9 +7,9 @@
 </template>
 <style scoped>
 div{
-border: dashed 1px white;
+border: solid 2px black;
 margin: 2px;
-background-color: lightseagreen;
+background-image: linear-gradient(lightseagreen, black);
 padding: 5px;
 text-align: center;
 }
