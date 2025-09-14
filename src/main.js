@@ -27,11 +27,12 @@ import PageName from './components/Slots/PageName.vue'
 const router = createRouter({
     history: createWebHistory(),
     routes: [
-        {path: '', component: HomeComp},
+        {path: '/', redirect: '/Home'},
         {path: '/Home', component: HomeComp},
         {path: '/CRUD', component: CrudComp},
         {path: '/Directives', component: DirectiveComp},
-        {path: '/Controls', component: ControlComp}
+        {path: '/Controls', component: ControlComp},
+        {path: '/:notFound(.*)', redirect: '/Home'}
     ]
 });
 
