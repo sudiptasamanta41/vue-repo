@@ -29,3 +29,6 @@
 	- $ git branch -m <new_name><br/>
 	and then push it to add a new branch called <new_name>	
 	- $ git push origin -u <new_name><br/>
+
+#Deploy website to GitHub Pages
+https://mkay11.medium.com/how-to-deploy-your-vite-vue-3-application-in-github-pages-2023-2b842f50576a
