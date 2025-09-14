@@ -32,3 +32,7 @@
 
 #Deploy website to GitHub Pages
 https://mkay11.medium.com/how-to-deploy-your-vite-vue-3-application-in-github-pages-2023-2b842f50576a
+
+#Run the following to build your app and push the contents of your dist folder to a gh-pages branch in your repository.
+- npm run build
+- npm run deploy
