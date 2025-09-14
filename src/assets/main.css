@@ -1,0 +1,10 @@
+@import './base.css';
+
+#app {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.defaultDiv{
+    padding: 5px;
+    border: solid 1px black;
+}
