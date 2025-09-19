@@ -1,5 +1,5 @@
 <template>
-    <page-name>CRUD Component</page-name>
+    <page-name>CRUD Component using .Net API</page-name>
     <div>
         <table>
             <thead>
