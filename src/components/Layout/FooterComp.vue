@@ -20,7 +20,7 @@ export default{
 
 <style scoped>
 div {
-    background-color: rgb(47, 61, 72);
+    background-color: rgb(40, 40, 200);
     color: rgb(255, 255, 255);
     padding: 5px;
     border: solid 1px black;

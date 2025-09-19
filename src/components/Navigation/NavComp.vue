@@ -36,7 +36,9 @@ export default{
 </script>
 <style scoped>
 div {
-    background-color: rgb(154, 175, 190);
-    border: solid 1px black;
+    background-color: rgb(0, 0, 0);
+    border-top: solid 1px rgb(255, 255, 255);
+    color: white;
+    padding: 5px 0 5px 10px;
 }
 </style>
